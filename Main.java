@@ -5,7 +5,8 @@ public static void main(String[] args){
     System.out.println("Hello world");
     System.out.println(12 + 10);
     System.out.println(100);
-    String name="Jamba ", name2="Gerad";
+    String name="Jamba ";
+    String name2="Gerad";
     System.out.println("Your name is " +name.toUpperCase()+ " of length "+name.length());
     System.out.println("Your full name is "+name.concat(name2));
     double num1 = (-101.11);

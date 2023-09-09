@@ -3,6 +3,7 @@ public class Main2{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         System.out.println("What is 1+2?");
+        
         String value=scanner.nextLine();
         
         if (value=="3"){

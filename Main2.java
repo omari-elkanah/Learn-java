@@ -11,6 +11,9 @@ public class Main2{
             System.out.println("Goodbye");
         }   
     }
+    static void Method2(String Adress, int age, char gender){
+
+    }
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         

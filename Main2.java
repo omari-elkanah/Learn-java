@@ -11,7 +11,7 @@ public class Main2{
             System.out.println("Goodbye");
         }   
     }
-    static void Method2(String Adress, int age, char gender){
+    static void Method2(String Address, int age, char gender){
 
     }
     public static void main(String[] args){

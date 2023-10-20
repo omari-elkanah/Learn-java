@@ -48,8 +48,7 @@ public static void main(String[] args){
             System.out.println(i);
         if (i==9){
             break;
-        }
-        }
+        }}
     }
     String [][] chelsea={{"Jackson","Sterling","Mudryk"}, {"Gallagher","Enzo"}, {"Gusto","Silva"}};
     System.out.println(chelsea);
